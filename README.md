@@ -1,3 +1,3 @@
-# Analyze sentiment with Natural Language API at Google Cloud
+# Analyze sentiment with Natural Language Processing API at Google Cloud
 
-Simple solution to analyze the sentiment of a text based on lab work
+A simple solution to analyze the sentiment of a text based on lab work
